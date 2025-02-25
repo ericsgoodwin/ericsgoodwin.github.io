@@ -1,9 +1,10 @@
-## ericsgoodwin.github.io
+## Eric Goodwin's GIS/Data Analysis Portfolio
 
-## Eric Goodwin's GIS/Data Analysis portfolio
-
+## See below!
 Code
 
 Maps
 
 Other
+
+ericsgoodwin.github.io
