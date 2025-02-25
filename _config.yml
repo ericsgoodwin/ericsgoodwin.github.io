@@ -1,1 +1,10 @@
-theme: jekyll-theme-minima
+title: "Eric Goodwin - Portfolio"  # Replace with whatever you like
+description: "A site powered by Alembic"
+theme: "jekyll-theme-cayman"  # This will be overridden by the remote theme
+remote_theme: daviddarnes/alembic
+show_excerpts: true   # Just an example Alembic config option
+permalink: /:title/
+
+# Optional additional config for Alembic:
+# If you want to specify custom navigation links, etc., you can add them here.
+
