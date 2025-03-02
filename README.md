@@ -2,8 +2,23 @@
 ## Portfolio
 - Projects
   - CWC Environmental Dashboard
+    - Embed top 3, and link to website.
+    - Mention involvement in planning and showcasing
+    - Mention the scripts written in Google Apps Scripts
   - Salt Lake County AI
+    - Packages used
+    - Put together small demo
+    - Vizzes with predictions?
+    - Mention involvement in scoping and planning, coordination between county and Eagleview
   - KSA Maps
- 
-- Code
-  -   
+    - Small sample map showcase (slideshow format)
+    - Screenshot some suitability models
+  - ERWP Survey123 monitoring
+    - Show the mobile version
+    - Show static, georeferenced pdf maps
+  - Valley fever site suitability / Survey123 / custom basemap
+  - Other scripting?
+    - NPS 3DEP hillshade stuff
+    - NPS feature service backup script
+    -  UUHSDW script cleanup and maintenance
+  - Phragmites classification / workflow overhaul   
