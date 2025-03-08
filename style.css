@@ -88,3 +88,57 @@ footer {
     text-align: left;
     margin-bottom: 20px;
 }
+
+.site-content {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/* Contact section */
+.contact-section {
+    text-align: center;
+    padding: 40px 20px;
+}
+
+/* grid layout: 3 equal columns */
+.contact-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    max-width: 800px;
+    margin: auto
+}
+
+/* each contact item */
+.contact-item {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease-in-out;
+    font-size: 18px;
+    font-weight: bold;    
+}
+
+/* Hover Effect (Only for Resume & LinkedIn) */
+.contact-item a {
+    color: #333;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.contact-item a:hover {
+    color: #0073b1;
+}
+
+.contact-item:hover {
+    transform: scale(1.05);
+}
+
+/* Styling for Plain Text Email */
+.plain-text {
+    color: #333;
+    font-weight: bold;
+}
