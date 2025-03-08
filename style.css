@@ -81,3 +81,10 @@ footer {
     color: white;
     text-align: center;
 }
+
+.about-paragraph {
+    max-width: 600px;
+    line-height: 1.6;
+    text-align: left;
+    margin-bottom: 20px;
+}
